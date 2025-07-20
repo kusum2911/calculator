@@ -2,6 +2,12 @@
 
 A simple, responsive calculator built using *HTML, **CSS, and **JavaScript*. This project performs basic arithmetic operations like addition, subtraction, multiplication, and division.
 
+## 📸 Preview
+
+https://github.com/user-attachments/assets/04f363f0-ee95-458c-aeb1-931d99cad1c1
+
+----
+
 ## 📌 Features
 
 - Responsive UI design
